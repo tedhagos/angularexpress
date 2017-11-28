@@ -1,0 +1,20 @@
+{
+  "name": "angularexpress",
+  "description": "Run the  mongo daemon ``` mongod ```",
+  "main": "dbcambridge.js",
+  "authors": [
+    "tedhagos <tedhagos@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/tedhagos/angularexpress",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.6.7"
+  }
+}
