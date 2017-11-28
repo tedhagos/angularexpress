@@ -1,4 +1,13 @@
 
+# First thing to do
+
+```
+npm install
+bower install
+```
+This will pull all libs in the dependencies of bower.json and package.json
+
+
 
 # Populate the DB
 
